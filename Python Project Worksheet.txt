@@ -35,37 +35,21 @@ Start
 
 
 
-Part 2: Code the Program
-Use the following guidelines to code your program.
-
-Use the Python IDLE to write your program.
-Using comments, type a heading that includes your name, today’s date, and a short description.
-Set up your def main(): statement. (Don’t forget the parentheses and colon.)
-Conclude the program with the main() statement.
-Include at least two print statements and two variables.
-Include at least four input prompts.
-Use concatenation to join strings.
-Follow the Python style conventions regarding indentation in your program.
-Run your program to ensure it is working properly. Fix any errors you may observe.
-Example of expected output: The output below is an example of a “Favorite Animal” message. Your specific results will vary depending on the choices you make about your message.
-
-Output
-
-The kangaroo is the cutest of all. It has 5 toes and a beautiful heart. It loves to eat chips and salsa, although it will eat pretty much anything. It lives in New York, and you must be super sweet to it, or you may end up as its meal!
-
-
-When you've completed writing your program code, save your work by selecting 'Save' in the Python IDLE. When you submit your assignment, you will attach this Python file separately.
-
 Part 3: Post Mortem Review (PMR)
-Using complete sentences, respond to all the questions in the PMR chart.
+
+The program works as intended but is unorganised and missing some fetures that would be nice.
+One such feture is a make your own madlib section then be able to play through it. Anougher feture wou;d
+to have more than one madlib and allow you to pick at the begining.
 
 Review Question	Response
-What was the purpose of your program?	 
-How could your program be useful in the real world?	 
-What is a problem you ran into, and how did you fix it?	 
+What was the purpose of your program?
+To make a madlib like thing	 
+How could your program be useful in the real world?
+It could not.	 
+What is a problem you ran into, and how did you fix it?
+The python ide I used didnt allow tabs and needed spaces instayed. It had an replace feture though so that worked out fine.
 Describe one thing you would do differently the next time you write a program.	 
+Make it more orginsed maby add more than one start def
 
 Part 4: Save Your Work
 Don't forget to save this worksheet. You will submit it for your assessment.
-
- Print |  Save
