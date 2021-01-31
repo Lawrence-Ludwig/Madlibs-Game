@@ -1,0 +1,71 @@
+Python Project Worksheet
+ 
+Output: Your goal
+You will write a program that asks a user to fill in a story. Store each response in a variable, then print the story based on the responses.
+
+Part 1: Plan and Write the Pseudocode
+Use the following guidelines to write your pseudocode for a fill-in story program.
+
+Decide on a list of items the program will ask the user to input.
+Your program should include at least four interactive prompts.
+Input from the user should be assigned to variables and used in the story.
+Use concatenation to join strings together in the story.
+Print the story for the user to read.
+ 
+
+Write your pseudocode here:
+
+Basic startup commands 
+	Help
+		Show what to do (Type things in)
+	Creddits
+	 Made by Lawrence Ludwig
+	Code
+		Link to code at github
+	Start
+		Starts the game
+	Make your own?
+
+Start
+	Asks for noun or adictive and such
+	Make a list List with vars
+	Add to text
+	Show finished text
+	Restart or copy text
+
+
+
+Part 2: Code the Program
+Use the following guidelines to code your program.
+
+Use the Python IDLE to write your program.
+Using comments, type a heading that includes your name, today’s date, and a short description.
+Set up your def main(): statement. (Don’t forget the parentheses and colon.)
+Conclude the program with the main() statement.
+Include at least two print statements and two variables.
+Include at least four input prompts.
+Use concatenation to join strings.
+Follow the Python style conventions regarding indentation in your program.
+Run your program to ensure it is working properly. Fix any errors you may observe.
+Example of expected output: The output below is an example of a “Favorite Animal” message. Your specific results will vary depending on the choices you make about your message.
+
+Output
+
+The kangaroo is the cutest of all. It has 5 toes and a beautiful heart. It loves to eat chips and salsa, although it will eat pretty much anything. It lives in New York, and you must be super sweet to it, or you may end up as its meal!
+
+
+When you've completed writing your program code, save your work by selecting 'Save' in the Python IDLE. When you submit your assignment, you will attach this Python file separately.
+
+Part 3: Post Mortem Review (PMR)
+Using complete sentences, respond to all the questions in the PMR chart.
+
+Review Question	Response
+What was the purpose of your program?	 
+How could your program be useful in the real world?	 
+What is a problem you ran into, and how did you fix it?	 
+Describe one thing you would do differently the next time you write a program.	 
+
+Part 4: Save Your Work
+Don't forget to save this worksheet. You will submit it for your assessment.
+
+ Print |  Save
