@@ -58,7 +58,7 @@ def creddits():
 
 
 def get_hub():
-    print('<Link>')
+    print('https://github.com/Lawrence-Ludwig/Madlibs-Game/tree/Lawrence-Ludwig-patch-IDLE-fix')
     restart()
 
 def start():
