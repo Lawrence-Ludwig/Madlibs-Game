@@ -6,7 +6,7 @@ Created on Fri Jan 29 15:24:59 2021
 """
 #imports
 import sys
-
+from time import sleep
 
 def title_screen():
     # Startup stuff
@@ -16,6 +16,7 @@ def title_screen():
     print('Type C for Creddits')
     print('exit to end ')
     print('Get for the gethub of the progect')
+    sleep(.25)
     title_input = input(">>>")
     # Checking the input
     
@@ -62,36 +63,44 @@ def get_hub():
 
 def start():
     print('Type a verb')
+    sleep(.25)
     verb1 = input('>>>')
     print('Type a adjective')
+    sleep(.25)
     adj1 = input('>>>')
     print('Type a verb')
+    sleep(.25)
     verb2 = input('>>>')
     print('Type a part of body')
+    sleep(.25)
     PoB1 = input('>>>')
     print('Type a part of body')
+    sleep(.25)
     PoB2 = input('>>>')
     print('Type a noun')
+    sleep(.25)
     noun1 = input('>>>')
     print('Type a verb')
+    sleep(.25)
     verb3 = input('>>>')
     print('Type a animal')
+    sleep(.25)
     animal1 = input('>>>')
     print('Type a noun')
+    sleep(.25)
     noun2 = input('>>>')
     print('Type a verb')
+    sleep(.25)
     verb4 = input('>>>')
     print('Type a adjective')
+    sleep(.25)
     adj2 = input('>>>')
     print('Type a color')
+    sleep(.25)
     color1 = input('>>>')
     input('Are your reddy')
     input('It doesnt mater because here it is')
     print('Most doctors agree that bicycle ' + verb1 +' is a ' + adj1 + ' form of exercise. ' + verb2 + " a bicycle enables you to develob your " + PoB1 +  " mucles as well as increase the rate of your " + PoB2 + " beat. More " + noun1 + " around the world. " + verb3 + " bicycles than drive " + animal1 + ". No mater what kind of " + noun2 + " you " + verb4 + ", always be sure to wear a " + adj2 + " helmet. Make sure to have " + color1 + " reflectors too!" )
-
-
-
-    input()
     restart()
 
 title_screen()
